@@ -1,0 +1,84 @@
+.allblue {
+  width: 100%;
+  height:1000px;
+  float: right;
+  background-color: #33CCCC;
+  padding: 1%;
+  overflow: auto;
+
+}
+.rightfloat {
+  width: 60%;
+  height:1000px;
+  float: right;
+  background-color: #33CCCC;
+  padding: 1%;
+  overflow: auto;
+
+}
+
+
+
+.left {
+
+
+  float: left;
+   margin-top: 30px;
+  background-color: #90EE90;
+    height:1000px;
+    padding: 1%;
+    width:30%;
+
+
+}
+
+.grey {
+  background-color: #DBFFFF;
+  margin: 0px;
+  padding:0;
+  overflow: auto;
+
+}
+
+a.pink {
+  background-color: pink;
+  font-size: 20px;
+
+display: inline;
+  margin: 0px;
+
+}
+
+.pinkdiv {
+    margin: 0px;
+  background-color:pink;
+  width: 100%;
+  height: 20%;
+display: block;
+}
+
+h1 {
+  margin: 0px;
+  padding:50px;
+  font-size: 65px;
+  text-align: center;
+
+}
+
+.sidepaddingg{
+  border: 0px solid black;
+
+padding-left: 50px;
+padding-right: 50px;
+background-color: #A0A0A0 ;
+overflow: auto;
+
+}
+
+.rightfloat li {
+  margin-left:30px;
+}
+
+.tab {
+  padding-left :1.5em;
+}
