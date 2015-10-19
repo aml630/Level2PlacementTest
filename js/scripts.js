@@ -3,6 +3,8 @@ $(document).ready(function (){
 
 $("#click").click(function (){
 
+  $("div.number").empty();
+
   var num = $("input#num").val();
 
 

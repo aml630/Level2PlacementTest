@@ -1,35 +1,26 @@
 .allblue {
   width: 100%;
-  height:1000px;
+  /*height:1000px;*/
   float: right;
   background-color: #33CCCC;
   padding: 1%;
-  overflow: auto;
+
 
 }
 .rightfloat {
   width: 60%;
   height:1000px;
   float: right;
-  background-color: #33CCCC;
   padding: 1%;
-  overflow: auto;
-
 }
 
-
-
 .left {
-
-
   float: left;
    margin-top: 30px;
   background-color: #90EE90;
     height:1000px;
     padding: 1%;
     width:30%;
-
-
 }
 
 .grey {
@@ -40,14 +31,7 @@
 
 }
 
-a.pink {
-  background-color: pink;
-  font-size: 20px;
 
-display: inline;
-  margin: 0px;
-
-}
 
 .pinkdiv {
     margin: 0px;
@@ -65,15 +49,6 @@ h1 {
 
 }
 
-.sidepaddingg{
-  border: 0px solid black;
-
-padding-left: 50px;
-padding-right: 50px;
-background-color: #A0A0A0 ;
-overflow: auto;
-
-}
 
 .rightfloat li {
   margin-left:30px;
