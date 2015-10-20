@@ -7,7 +7,6 @@ $("#click").click(function (){
 
   var num = $("input#num").val();
 
-
   for (var start = 1; start <= num; start += 1) {
 
       if (start % 15 === 0) {
@@ -20,8 +19,7 @@ $("#click").click(function (){
           $("div.number").append("<li>Pong</li>");
 
 
-
-      } else {
+      } else  {
           $("div.number").append("<li>" + start + "</li>");
 
           event.preventDefault();
@@ -29,15 +27,10 @@ $("#click").click(function (){
 
       }
 
-
   }
 
 
-
-
 })
-
-
 
 
 })
