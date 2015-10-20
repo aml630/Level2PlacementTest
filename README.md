@@ -1,7 +1,7 @@
 # Level2PlacementTest
 **By: Alex Larson**
 
-Ping Pont is a sample JavaScript application for demonstrating basic proficiency in JavaScript, jQuery, Git, Markdown, HTML< Bootstrap, CSS, and BDD.
+Ping Pont is a sample JavaScript application for demonstrating basic proficiency in JavaScript, jQuery, Git, Markdown, HTML, Bootstrap, CSS, and BDD.
 
 A user enters a number and is shown a range of numbers from 1 to the number entered with the following exceptions:
 
