@@ -9,12 +9,12 @@ A user enters a number and is shown a range of numbers from 1 to the number ente
   Numbers divisible by 5 are replaced with "pong"
   Numbers divisible by 15 are replaced with "pingpong"
 
-**Installation**
+## Installation
 
 Install ping-pong by cloning this repository:
 
 https://github.com/aml630/Level2PlacementTest.git
 
-**License**
+## License
 
 MIT License.  Copyright 2015
