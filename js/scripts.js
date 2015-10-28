@@ -1,3 +1,11 @@
+var pingPong = function(input) {
+    return false
+};
+
+
+
+
+
 $(document).ready(function() {
 
     $("#click").click(function() {
