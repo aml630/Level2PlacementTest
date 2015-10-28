@@ -1,5 +1,21 @@
 var pingPong = function(input) {
-    return false
+  if (input % 5 === 0) {
+    return true;
+  }
+
+else if (input % 15 === 0) {
+    return true;
+  }
+else if (input % 3 ===0 ) {
+  return true;
+}
+else if ( input % 3 ===0  ||  input % 5 ===0   ||input % 15 === 0 ) {
+  return true;
+}
+
+  else{
+    return false;
+  }
 };
 
 
