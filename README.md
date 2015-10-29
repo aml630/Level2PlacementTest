@@ -13,7 +13,7 @@ A user enters a number and is shown a range of numbers from 1 to the number ente
 
 Install ping-pong by cloning this repository:
 
-https://github.com/aml630/Level2PlacementTest.git
+https://github.com/aml630/Level2PlacementTest
 
 ## License
 
